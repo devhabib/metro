@@ -1,0 +1,242 @@
+/* XL Device :1200px. 1170 */
+@media screen and (max-width: 768px){
+	
+}
+/* LG Device :992px. 970px */
+@media (min-width: 992px) and (max-width: 1200px) {
+.container{
+	width: 970px;
+}
+nav ul li {
+	padding: 10px;
+}
+.home-content p {
+	font-size: 15px;
+	padding: 10px 0;
+}
+.about-content {
+	padding: 20px 0;
+}
+.about-box-content h3 {
+	font-size: 19px;
+}
+.about-content h3 {
+	font-size: 26px;
+	padding-bottom: 0px;
+}
+.about-content p {
+	font-size: 13px;
+}
+.single-counter {
+	padding: 15px 10px;
+	margin: 35px 0;
+}
+form input {
+	height: 35px;
+	margin-bottom: 15px;
+}
+form textarea {
+	height: 80px;
+	margin-bottom: 15px;
+}
+.contact-form {
+	height: 100%;
+}
+.subscribe h2 {
+	font-size: 30px;
+	float: right;
+}
+.single-contact h3 {
+	font-size: 20px;
+}
+.single-contact ul li p {
+	margin: -1px;
+}
+.contact-us li p {
+	font-size: 15px;
+}
+.contact-us li a {
+	font-size: 15px;
+}
+.contact-us li i {
+	font-size: 17px;
+}
+}
+
+
+/* MD Device :768px. 750px */
+@media (min-width: 768px) and (max-width: 991px) {
+.container{
+	width: 750px;
+}
+nav ul li {
+	padding: 10px;
+}
+.home-content {
+	width: 60%;
+}
+.home-content h3 {
+	font-size: 20px;
+}
+.home-content h1 {
+	font-size: 26px;
+}
+.home-content p {
+	font-size: 14px;
+	padding: 5px 0;
+}
+.col-md-6 {width: 50%;margin-bottom: 10px;}
+.col-md-12 {width: 100%;margin-bottom: 10px;}
+.about-img{
+	display: none;
+}
+.about-content {
+	padding: 15px 0;
+}
+.contact-form {
+	width: 90%;
+}
+form input {
+	width: 49%;
+	margin-bottom: 15px;
+	font-size: 15px;
+}
+form textarea {
+	width: 49%;
+	margin-bottom: 15px;
+	float: right;
+}
+.subscribe h2 {
+	font-size: 23px;
+	float: right;
+}
+}
+
+
+/* Mobile Layout: 320px. 300px */
+@media only screen and (max-width: 767px) { 
+.container{
+	width: 300px;
+}
+.col-sm-1 {width: 8.33%;}
+.col-sm-2 {width: 16.66%;}
+.col-sm-3 {width: 25%;}
+.col-sm-4 {width: 33.33%;}
+.col-sm-5 {width: 41.66%;}
+.col-sm-6 {width: 50%;}
+.col-sm-7 {width: 58.33%;}
+.col-sm-8 {width: 66.66%;}
+.col-sm-9 {width: 75%;}
+.col-sm-10 {width: 83.33%;}
+.col-sm-11 {width: 91.66%;}
+.col-sm-12 {
+	width: 100%;
+	margin-bottom: 10px;
+}
+header{
+	display: none;
+}
+.logo{
+	display: block;
+}
+.slicknav_menu {
+	display: block;
+	position: fixed;
+	top: 0;
+	right: 0;
+	z-index: 9999;
+	width: 100%;
+}
+#home {
+	height: 50vh;
+}
+.home-content {
+	width: 100%;
+	padding: 10px;
+}
+.home-content h3 {
+	font-size: 20px;
+}
+.home-content h1 {
+	font-size: 25px;
+	padding: 10px 0;
+	letter-spacing: 0px;
+}
+.home-content p {
+	font-size: 14px;
+	line-height: 18px;
+	padding: 5px 0;
+}
+.btn-text, button {
+	font-size: 13px;
+	padding: 8px 10px;
+}
+.section-heading h2 {
+	font-size: 25px;
+	line-height: 30px;
+}
+.about-box-content h3 {
+	font-size: 17px;
+	line-height: 35px;
+}
+.about-box-content p {
+	font-size: 13px;
+}
+.about-content {
+	padding: 0;
+}
+.about-content h3 {
+	font-size: 25px;
+}
+.about-content p {
+	font-size: 13px;
+}
+.about-img{
+	display: none;
+}
+.about-content ul li p {
+	float: left;
+}
+.call-action-content h1 {
+	font-size: 30px;
+	line-height: 2;
+}
+.call-action-content p {
+	line-height: 1.5;
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+.contact-form {
+	height: 100%;
+	width: 100%;
+}
+.contact-form h3 {
+	font-size: 25px;
+	padding: 10px 0;
+}
+form input {
+	height: 35px;
+}
+.subscribe h2 {
+	font-size: 20px;
+}
+.newslatter {
+	height: 100%;
+}	
+form {
+	padding: 0 5px;
+}
+footer {
+	height: 50px;
+	padding: 22px 0px;
+}
+}
+/* Wide Mobile Layout: 480px. 450px */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+	
+}
+
+
+
+
